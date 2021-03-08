@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/a1a4a7/Travis-CICD/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/a1a4a7/Travis-CICD/static/js/main.3fcb6009.chunk.js",
+    "main.js.map": "/a1a4a7/Travis-CICD/static/js/main.3fcb6009.chunk.js.map",
+    "runtime-main.js": "/a1a4a7/Travis-CICD/static/js/runtime-main.a893c248.js",
+    "runtime-main.js.map": "/a1a4a7/Travis-CICD/static/js/runtime-main.a893c248.js.map",
+    "static/js/2.dd27f354.chunk.js": "/a1a4a7/Travis-CICD/static/js/2.dd27f354.chunk.js",
+    "static/js/2.dd27f354.chunk.js.map": "/a1a4a7/Travis-CICD/static/js/2.dd27f354.chunk.js.map",
+    "static/js/3.1bb6a018.chunk.js": "/a1a4a7/Travis-CICD/static/js/3.1bb6a018.chunk.js",
+    "static/js/3.1bb6a018.chunk.js.map": "/a1a4a7/Travis-CICD/static/js/3.1bb6a018.chunk.js.map",
+    "index.html": "/a1a4a7/Travis-CICD/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/a1a4a7/Travis-CICD/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dd27f354.chunk.js.LICENSE.txt": "/a1a4a7/Travis-CICD/static/js/2.dd27f354.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/a1a4a7/Travis-CICD/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a893c248.js",
+    "static/js/2.dd27f354.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3fcb6009.chunk.js"
+  ]
+}
